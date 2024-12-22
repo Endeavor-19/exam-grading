@@ -1,3 +1,6 @@
 [submodule "exams"]
 	path = exams
 	url = https://github.com/Endeavor-19/exams.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/Endeavor-19/learning-cxx.git
