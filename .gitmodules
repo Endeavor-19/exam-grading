@@ -4,3 +4,6 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = https://github.com/Endeavor-19/learning-cxx.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/Endeavor-19/rustlings.git
